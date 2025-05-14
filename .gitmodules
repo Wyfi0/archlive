@@ -1,0 +1,3 @@
+[submodule "airootfs/home/raina/.config"]
+	path = airootfs/home/raina/.config
+	url = https://github.com/Wyfi0/dotfiles.git
