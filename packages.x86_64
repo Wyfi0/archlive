@@ -12,6 +12,7 @@ pv
 qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
+systemd-resolvconf
 
 # my custom packages to install
 bash
@@ -32,7 +33,6 @@ less
 nvtop
 btop
 screen
-cfdisk
 man-db
 man-pages
 mdadm
@@ -41,6 +41,10 @@ reflector
 rsync
 sudo
 tar
+edk2-shell
+starship
+greetd
+greetd-tuigreet
 
 # Networking and cybersecurity stuff
 networkmanager
@@ -57,17 +61,18 @@ neovim
 stylua
 pyright
 bash-language-server
+ttf-sourcecodepro-nerd
+ttf-nerd-fonts-symbols-common
+ttf-nerd-fonts-symbols
 
 # Minimal hyprland desktop environment
 hyprland
 kitty
 kitty-terminfo
-librewolf-bin
+firefox
 dunst
 thunar
 thunar-volman
-wofi
-drun
 cliphist
 wl-clipboard
 
